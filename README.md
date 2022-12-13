@@ -1,5 +1,5 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)]
-<h1<h1 align="center">Hi 👋, I'm Bisma-Asif</h1>
+![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+<h1 align="center">Hi 👋, I'm Bisma-Asif</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="bisma-asif" /> </p>
