@@ -103,7 +103,7 @@ I am a **Full Stack Web Developer** focused on building scalable, fast and moder
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/bismaasif/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=bismaasif&style=flat-square&color=blue" />
 </p>
 
 ---
