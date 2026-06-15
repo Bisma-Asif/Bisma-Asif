@@ -1,4 +1,4 @@
-<!-- HEADER (CLEAN + PROFESSIONAL) -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=180&section=header&text=Bisma%20Asif&fontSize=42&fontColor=ffffff" />
 </p>
@@ -10,71 +10,109 @@ MERN Stack • Laravel • Next.js • WordPress
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Frontend+%26+Backend+Development;Clean+Code+%7C+Performance+%7C+UX+Focused" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Laravel+Backend+Expert;WordPress+Developer;Clean+Code+%7C+Scalable+Apps" />
 </p>
 
 ---
 
+<!-- ===================== ABOUT ===================== -->
 ## 👩‍💻 About Me
 
-I am a Full Stack Web Developer focused on building **scalable, fast, and modern web applications** using industry-standard technologies.
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=600&q=80" width="300"/>
+</p>
 
-- Full Stack Development (MERN / Laravel / WordPress)
-- Clean UI + Performance Optimization
-- REST APIs & Backend Systems
-- Responsive Web Applications
-- IT Instructor & Mentor
+I am a **Full Stack Web Developer** focused on building scalable, fast and modern web applications using industry-standard technologies.
+
+- 🚀 Full Stack (MERN / Laravel / WordPress)
+- 🎯 Focus on scalable web applications
+- ⚡ Clean UI + Performance optimization
+- 🧠 REST APIs & backend systems
+- 🎓 IT Instructor & Mentor
 
 📧 Email: **bismaasif305@gmail.com**
 
 ---
 
+<!-- ===================== TECH STACK ===================== -->
 ## 🛠 Tech Stack
 
-**Frontend**  
-HTML • CSS • JavaScript • React • Next.js • Tailwind
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap)
 
-**Backend**  
-Node.js • Express • PHP • Laravel
+### Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,php,laravel)
 
-**Database**  
-MongoDB • MySQL
+### Database
+![Database](https://skillicons.dev/icons?i=mongodb,mysql)
 
-**Tools**  
-Git • GitHub • VS Code • Figma • Vercel
+### Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel)
 
 ---
 
+<!-- ===================== STATS ===================== -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bismaasif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bismaasif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bismaasif&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🚀 Work Focus
-
-- Enterprise Websites
-- SaaS Applications
-- E-Commerce Platforms
-- Admin Dashboards
-- WordPress Custom Solutions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bismaasif&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Contact
+<!-- ===================== WORK ===================== -->
+## 🚀 What I Build
 
-- GitHub: github.com/bismaasif  
-- Email: bismaasif305@gmail.com  
-- Location: Pakistan
+- 🌐 Business Websites
+- 🛒 E-Commerce Platforms
+- ⚛️ React / Next.js Applications
+- 🧩 WordPress Custom Themes
+- ⚙️ Laravel APIs & Backend Systems
+- 📊 Admin Dashboards
 
 ---
+
+<!-- ===================== CONTACT ===================== -->
+## 🌐 Connect With Me
 
 <p align="center">
-Built with focus on clean architecture and professional development practices.
+  <a href="mailto:bismaasif305@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://github.com/bismaasif">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+<!-- ===================== VIEWS ===================== -->
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/bismaasif/count.svg" />
+</p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  Built with ❤️ by <b>Bisma Asif</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=120&section=footer" />
 </p>
