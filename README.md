@@ -1,23 +1,27 @@
-<!-- HERO BANNER -->
+<!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bisma%20Asif&fontSize=42&fontColor=ffffff" />
 </p>
 
-<h3 align="center">Full Stack Web Developer | MERN | Laravel | Next.js | WordPress</h3>
+<h2 align="center">Full Stack Web Developer | MERN | Laravel | Next.js | WordPress</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+Expert;WordPress+Developer;React+%26+Next.js+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;Laravel+Backend+Expert;WordPress+Developer;React+%26+Next.js+Specialist" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=600&q=80" width="280" />
+</p>
+
 - 🚀 Full Stack Developer (MERN + Laravel + WordPress)
-- 🌱 Learning Advanced System Design & AI Integration
-- 🎯 Focus: Scalable & Production-Ready Applications
+- 🎯 Focused on scalable, production-ready web apps
+- 🌱 Learning AI Integrations & System Design
 - 🎓 IT Instructor & Mentor
-- 💼 Open for Freelance & Remote Work
+- 💼 Available for freelance & remote jobs
 - 📧 Email: **bismaasif305@gmail.com**
 
 ---
@@ -38,30 +42,29 @@
 
 ---
 
-## 📊 GitHub Stats (FIXED)
+## 📊 GitHub Stats (FIXED + CLEAN)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bismaasif&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bismaasif&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bismaasif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
-
----
-
-## 🔥 GitHub Streak (FIXED)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bismaasif&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bismaasif&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
-## 🚀 Featured Work
+## 🚀 What I Build
 
-- 🌐 Portfolio Websites (Modern UI/UX)
-- 🛒 E-Commerce Platforms (MERN Stack)
-- ⚛️ React / Next.js Apps
+- 🌐 Business & Corporate Websites
+- 🛒 E-Commerce Platforms
+- ⚛️ React & Next.js Applications
 - 🧩 WordPress Custom Themes
-- ⚙️ Laravel REST APIs
+- ⚙️ Laravel APIs & Backend Systems
 
 ---
 
@@ -89,7 +92,7 @@
 
 ---
 
-## ❤️ Footer
+## 💎 Footer
 
 <p align="center">
   Built with ❤️ by <b>Bisma Asif</b>
