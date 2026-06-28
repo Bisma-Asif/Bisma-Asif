@@ -30,7 +30,7 @@ I am a **Full Stack Web Developer** focused on building scalable, fast and moder
 - 🧠 REST APIs & backend systems
 - 🎓 IT Instructor & Mentor
 
-📧 Email: **bismaasif305@gmail.com**
+📧 Email: **bisma.asif2060@gmail.com**
 
 ---
 
